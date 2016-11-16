@@ -45,6 +45,6 @@ encode that used, utf8 by defaul
 freeweed 
 
 ## License
-This project is licensed under the WTFPL License - see the LICENSE.md file for details
+This project is licensed under the WTFPL License - see the [LICENSE.md](LICENSE.md) file for details
 
 
