@@ -135,7 +135,6 @@ var handleRequest = function(doc) {
     })
     $('a').each(function () {
         if ($(this).attr('href')){
-          if(!bad) bad = $(this).attr('href').indexOf('http:') > -1
           addQueue($(this).attr('href'))
         }
     })
